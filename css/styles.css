@@ -64,6 +64,7 @@ img {
 .header-container {
 	display: flex;
 	align-items: center;
+	margin-right: auto;
 }
 .nav-container {
 	margin-right: auto;
@@ -485,6 +486,7 @@ img {
 }
 .cards-list__link {
 	display: block;
+	
 
 	text-decoration: none;
 }
